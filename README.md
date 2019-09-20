@@ -1,3 +1,4 @@
+<iframe width="100%" height="315" src="qgis2web/index.html" frameborder="0" allowfullscreen></iframe>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/branning/MapTime/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
